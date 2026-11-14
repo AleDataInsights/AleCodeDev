@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://unsplash.com/es/fotos/a-bunch-of-different-shapes-and-sizes-of-objects-6W_fige5UfU" alt="Ilustración de inteligencia artificial y analítica de datos" width="100%" />
+  <img src="https://images.unsplash.com/photo-1708844897353-649da595a3f2?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D" alt="Ilustración de inteligencia artificial y analítica de datos" width="100%" />
 </div>
 
 <h1 align="center">Hola, soy AleCodeDev 👋</h1>
