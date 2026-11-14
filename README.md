@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner-analitica-ia.svg" alt="Ilustración de inteligencia artificial y analítica de datos" width="100%" />
+  <img src="https://chatgpt.com/s/m_6af88737cecc8191baed30fd9f6ae651" alt="Ilustración de inteligencia artificial y analítica de datos" width="100%" />
 </div>
 
 <h1 align="center">Hola, soy AleCodeDev 👋</h1>
