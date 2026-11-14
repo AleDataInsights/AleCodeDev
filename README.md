@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://chatgpt.com/s/m_6af88737cecc8191baed30fd9f6ae651" alt="Ilustración de inteligencia artificial y analítica de datos" width="100%" />
+  <img src="https://unsplash.com/es/fotos/a-bunch-of-different-shapes-and-sizes-of-objects-6W_fige5UfU" alt="Ilustración de inteligencia artificial y analítica de datos" width="100%" />
 </div>
 
 <h1 align="center">Hola, soy AleCodeDev 👋</h1>
